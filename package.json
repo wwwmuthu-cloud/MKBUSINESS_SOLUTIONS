@@ -1,0 +1,13 @@
+{
+  "name": "mk-business-solutions-website",
+  "version": "1.0.0",
+  "description": "Website for MK Business Solutions - Branding and Growth Marketing",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": ["branding", "marketing", "business", "website"],
+  "author": "MK Business Solutions",
+  "license": "MIT"
+}
